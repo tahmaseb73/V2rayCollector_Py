@@ -29,3 +29,4 @@
 | [Switzerland](https://raw.githubusercontent.com/tahmaseb73/V2rayCollector_Py/main/sub/Switzerland/config.txt) |
 | [Austria](https://raw.githubusercontent.com/tahmaseb73/V2rayCollector_Py/main/sub/Austria/config.txt) |
 | [Finland](https://raw.githubusercontent.com/tahmaseb73/V2rayCollector_Py/main/sub/Finland/config.txt) |
+
