@@ -21,7 +21,6 @@
 | [Iran](https://raw.githubusercontent.com/tahmaseb73/V2rayCollector_Py/main/sub/Iran/config.txt) |
 | [Sweden](https://raw.githubusercontent.com/tahmaseb73/V2rayCollector_Py/main/sub/Sweden/config.txt) |
 | [Japan](https://raw.githubusercontent.com/tahmaseb73/V2rayCollector_Py/main/sub/Japan/config.txt) |
-| [Armenia](https://raw.githubusercontent.com/tahmaseb73/V2rayCollector_Py/main/sub/Armenia/config.txt) |
 | [Serbia](https://raw.githubusercontent.com/tahmaseb73/V2rayCollector_Py/main/sub/Serbia/config.txt) |
 | [Brazil](https://raw.githubusercontent.com/tahmaseb73/V2rayCollector_Py/main/sub/Brazil/config.txt) |
 | [United Arab Emirates](https://raw.githubusercontent.com/tahmaseb73/V2rayCollector_Py/main/sub/United%20Arab%20Emirates/config.txt) |
@@ -29,6 +28,7 @@
 | [Switzerland](https://raw.githubusercontent.com/tahmaseb73/V2rayCollector_Py/main/sub/Switzerland/config.txt) |
 | [Austria](https://raw.githubusercontent.com/tahmaseb73/V2rayCollector_Py/main/sub/Austria/config.txt) |
 | [Finland](https://raw.githubusercontent.com/tahmaseb73/V2rayCollector_Py/main/sub/Finland/config.txt) |
+
 
 
 
