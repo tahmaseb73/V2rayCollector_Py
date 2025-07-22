@@ -9760,6 +9760,7 @@ This project is licensed under the GNU General Public License v3.0 - see the [LI
 
 
 
+
 | Sub |
 |-----|
 | [Costa Rica](https://raw.githubusercontent.com/tahmaseb73/V2rayCollector_Py/main/sub/Costa%20Rica/config.txt) |
